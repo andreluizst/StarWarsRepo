@@ -2,4 +2,6 @@ Luke
 Rey
 Yoda
 Leia Organa
+Chewbacca
+Han Solo
 Jabba The Hunt
